@@ -28,6 +28,37 @@ The picture below shows the validation and creation of the Windows 10 VM
 <img width="818" alt="image" src="https://github.com/user-attachments/assets/6bd5e535-2b57-44b9-a60b-caf78e5646c7" />
 
 
+### Step 2 - Installing Active Directory Domain Service (AD DS)
+
+1. Open Server Manager, select Manage > Add Roles and Features
+2. Choose Active Directory Domain Service and Install it
+
+![installAD DS](https://github.com/user-attachments/assets/7396561c-ae9e-49b1-aace-e88d20cedc82)
+
+3. Promote the server to a Domain Controller.
+   - Create a new forest (e.g. example.local) in this lab i used masterkit.com as my forest.
+     ![forest](https://github.com/user-attachments/assets/1cf81cd6-9410-476e-8fec-f00088d59ae3)
+   - Set up DNS and Directory Service Restore Mode (DSRM) passowrd.
+  
+4. Restart the server to apply changes.
+
+<img width="825" alt="image" src="https://github.com/user-attachments/assets/b6464be3-c77c-4dc9-b026-70625646840e" />
+
+
+### Step 3 - Creating Organizational Units (OU)
+
+In this section, we will be creating OUs for different department (e.g. Sales, HR), create user accounts and groups with the OUs.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
