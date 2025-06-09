@@ -48,6 +48,10 @@ The picture below shows the validation and creation of the Windows 10 VM
 ### Step 3 - Creating Organizational Units (OU)
 
 In this section, we will be creating OUs for different department (e.g. Sales, HR), create user accounts and groups with the OUs.
+Here i created OUs (Africa, Europe, Asia) with Groups (HR, Sales) under the OUs and users (Tom Hardy, Uncle Hugo) under the group as shown below.
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/a1903bf7-d804-4d5c-8264-652a2c083509" />
+
 
 
 
