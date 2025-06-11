@@ -45,12 +45,20 @@ The picture below shows the validation and creation of the Windows 10 VM
 <img width="825" alt="image" src="https://github.com/user-attachments/assets/b6464be3-c77c-4dc9-b026-70625646840e" />
 
 
-### Step 3 - Creating Organizational Units (OU)
+### Step 3 - Creating Organizational Units (OU), Group Policy Object (GPO)
 
 In this section, we will be creating OUs for different department (e.g. Sales, HR), create user accounts and groups with the OUs.
 Here i created OUs (Africa, Europe, Asia) with Groups (HR, Sales) under the OUs and users (Tom Hardy, Uncle Hugo) under the group as shown below.
 
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/a1903bf7-d804-4d5c-8264-652a2c083509" />
+
+A GPO is a virtual collection of policy settings, security permissions, and scope of management (SOM) that you can apply to users and computers in Active Directory.
+Policy settings are divided into policy settings that affect a computer and policy settings that affect a user. Computer-related policies specify system behavior, application settings, security settings, assigned applications, and computer startup and shutdown scripts. User-related policies specify system behavior, application settings, security settings, assigned and published applications, user logon and logoff scripts, and folder redirection. Computer settings override user-related settings.
+
+![GPO](https://github.com/user-attachments/assets/921121b3-d7d8-4bc5-9080-c8c6cc1715b3)
+
+In this section, we will be setting policies for Wallpaper, Account lock plicy, Deny Access to Control Panel, Password reset policy after 90 days.
+
 
 
 
