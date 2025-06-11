@@ -57,7 +57,49 @@ Policy settings are divided into policy settings that affect a computer and poli
 
 ![GPO](https://github.com/user-attachments/assets/921121b3-d7d8-4bc5-9080-c8c6cc1715b3)
 
-In this section, we will be setting policies for Wallpaper, Account lock plicy, Deny Access to Control Panel, Password reset policy after 90 days.
+In this section, we will be setting policies for Password reset policy after 90 days, Wallpaper, Account lock plicy, Deny Access to Control Panel.
+
+1. In the Group Policy Management right click on the domain (masterkit.com) to create a GPO (Password reset after 90 days) in the domain.
+
+![GPO](https://github.com/user-attachments/assets/d1603c6b-d360-47b4-ac62-7d09ac7a5bb4)
+
+![GPO set](https://github.com/user-attachments/assets/befabe55-f887-47b4-9918-ce89abb0bb73)
+
+In this photo below we were able to set a password policy for Min and Max password age and also complexity.
+
+![Others](https://github.com/user-attachments/assets/ec4e17d6-ac61-43ab-bc70-b8814ac54f6e)
+
+2. For the next GPO which is for the (Wallpaper), follow same process and name policy as Wallpaer.
+
+![wallaper](https://github.com/user-attachments/assets/b0bc7ac3-3d7c-4e29-b7a8-429c50843174)
+
+![afterWallpaper](https://github.com/user-attachments/assets/89a4432c-ccb1-4c35-8433-162f84278687)
+
+The picture before shows the Desktop Wallper before the Policy Application and after.
+
+![beforewallaper](https://github.com/user-attachments/assets/6114fad4-d9b5-4c90-aa5a-671a0c8cb7c7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
