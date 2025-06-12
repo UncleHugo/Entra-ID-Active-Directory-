@@ -81,10 +81,11 @@ The picture before shows the Desktop Wallper before the Policy Application and a
 
 <img width="845" alt="image" src="https://github.com/user-attachments/assets/8d2fda16-fa1d-412c-aa2b-abbc838760dd" />
 
-3. The last example, we will be creating a GPO for "Account Lock Policy"
+3. The last example, we will be creating a GPO for "Account Lock Policy". This policy helps prevent brute force attack on user accounts. Here, if 4 wrong logon attempts are been made the accounts automatically locks out.
 
 <img width="835" alt="image" src="https://github.com/user-attachments/assets/fecc4b78-a381-4bf9-a1da-445d93e1ddc4" />
 
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/7baa2249-5e59-44f5-a706-1847c279d994" />
 
 
 
