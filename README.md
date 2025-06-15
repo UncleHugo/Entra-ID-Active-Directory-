@@ -106,6 +106,19 @@ Also i was able to ping the DC IP which was successful
 
 ![image](https://github.com/user-attachments/assets/590cbe1b-365a-4661-a508-4e32fe36828d)
 
+The below picture involves setting the client machine's name (USER1) and adding the (masterkit.com) domain name.
+
+![image](https://github.com/user-attachments/assets/be9c0d06-2859-49b1-89a9-cf9d0e39589e)
+
+After setting up the client machine's name and domain we get this notification for a successful addition.
+
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/29aadc93-4aec-4d68-8463-b2e785a8f43b" />
+
+<img width="262" alt="image" src="https://github.com/user-attachments/assets/de3dfc5f-6c33-4288-b5d3-de512b52c9d1" />
+
+
+
+
 
 
 
