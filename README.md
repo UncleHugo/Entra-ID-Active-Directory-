@@ -88,6 +88,32 @@ The picture before shows the Desktop Wallper before the Policy Application and a
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/7baa2249-5e59-44f5-a706-1847c279d994" />
 
 
+## JOINING CLIENT COMPUTER TO DOMAIN
+In this section i will be joining the Windows 10 client machine to the domain.
+Here, i will be configuring the domain controller's IP to static IP and also change the DNS servers to loopback and google DNS.
+
+I was able to set the DC (Domain Controller) with its static IPs and DNS servers
+
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/af5b442b-4fa1-48b3-8714-29f1613224e2" />
+
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/2a2ae93a-a2a2-4944-8ad6-2434045f2646" />
+
+In the Client Machine (USER1) i was able to setup the DNS server to resolve to the DC IP
+
+<img width="789" alt="image" src="https://github.com/user-attachments/assets/dacae0c6-7c26-4764-b602-7a67cfe4e73e" />
+
+Also i was able to ping the DC IP which was successful
+
+![image](https://github.com/user-attachments/assets/590cbe1b-365a-4661-a508-4e32fe36828d)
+
+
+
+
+
+
+
+
+
 
 
 
